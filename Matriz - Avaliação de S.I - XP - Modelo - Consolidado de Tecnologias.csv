@@ -1,0 +1,45 @@
+,,,,,,,,,,,
+,Consolidado de Tecnologias,,,,,,,,,,
+,,,,,,,,,,,
+,Progresso Geral,972%,,,,,,,,,
+,,,,,,,,,,,
+,Camada,Solução,Fabricante,Cotação,Aquisição,Implantação,Produção,Indicador de Compliance,Números,Inserir o número absoluto dos %,% Progresso
+,Segurança em Endpoint,Colaboradores,,0,0,0,100,N° total de colaboradores ,100,100%,100%
+,Segurança em Endpoint,Notebook Corporativo,Dell,0,0,0,100,% de colaboradores com notebook corporativo,100,100%,100%
+,Segurança em Endpoint,Antivírus,Bitdefender Gravityzone,0,0,95,5,% de notebooks corporativos com Antivirus,100,5%,5%
+,Segurança em Endpoint,Antimalware (EDR),Bitdefender Gravityzone,0,0,5,95,% de notebooks corporativos com EDR,100,95%,95%
+,Segurança em Endpoint,Data Loss Prevention (DLP),Bitdefender Gravityzone - Addon Bitlocker,0,0,25,75,% de notebooks corporativos com Data Loss Prevention (DLP),100,75%,75%
+,Segurança em Endpoint,WSS – Filtro de Conteúdo (Web Security Service),Bitdefender Gravityzone,0,0,70,0,% de notebooks corporativos com WSS – Filtro de Conteúdo (Web Security Service),100,0%,0%
+,Segurança em Endpoint,Mobile Device Mgmt. (MDM),Google MDM ,0,0,10,100,% de notebooks corporativos com Mobile Device Mgmt. (MDM) - Celulares,100,100%,100%
+,Segurança em Endpoint,Gestão de Patches,Bitdefender Gravityzone - Addon Patch management,0,0,50,50,% de notebook no escopo de Gestão de Patches,100,50%,50%
+,Segurança em Infraestrutura,Servidores,Bitdefender Gravityzone,0,0,75,25,N° total de servidores,100,25%,25%
+,Segurança em Infraestrutura,Gestão de Patches,Bitdefender Gravityzone - Addon Patch management,0,0,45,55,% de servidores no escopo de Gestão de Patches,100,55%,55%
+,Segurança em Infraestrutura,Gestão de Vulnerabilidades,Bitdefender Gravityzone,0,30,55,15,% de servidores no escopo de Gestão de Vulnerabilidades,100,15%,15%
+,Segurança em Infraestrutura,Visibilidade de Rede e Compliance,Bitdefender Gravityzone,0,40,10,50,% de servidores no escopo de inventário,100,50%,50%
+,Segurança em Infraestrutura,Implantação de Domain Controller,Microsoft Active Directory,0,0,0,100,% de servidores integrados no domínio,100,100%,100%
+,Security Operations Center,SIEM (Monitoramento),Wazuh,100,0,0,0,% de servidores monitorados pelo SIEM,100,0%,0%
+,Segurança em Nuvem,Contas de Nuvem,Digital Ocean,100,0,0,0,N° total de contas na Nuvem,100,0%,0%
+,Segurança em Nuvem,Compliance Seg. em Nuvem,Digital Ocean,100,0,0,0,% de contas na Nuvem integrados na console de Compliance de Segurança,100,0%,0%
+,Segurança em Nuvem,CASB,,100,0,0,0,n/a,100,0%,0%
+,Segurança nos acessos,Sistemas,Digital Ocean,100,0,0,0,N° total de sistemas,100,0%,0%
+,Segurança nos acessos,Gestão de Identidades,JumpServer,0,100,0,0,% de sistemas integrados na plataforma de Gestão de Identidades,100,0%,0%
+,Segurança nos acessos,Contas privilegiadas,AD + Google Workspace,0,0,0,100,N° total de contas privilegiadas,100,100%,100%
+,Segurança nos acessos,Cofre de Senhas,,0,100,0,0,% de contas privilegiadas inseridas no Cofre de Senhas,100,0%,0%
+,Segurança nos acessos,Monitor. Acesso privilegiado,,0,100,0,0,% de contas privilegiadas monitoradas,100,0%,0%
+,Segurança nos acessos,"AD, File Server",Microsoft Active Directory,0,0,70,30,"N° total de (AD, File Server)",100,30%,30%
+,Segurança nos acessos,"Auditoria de AD, File Server",Microsoft Active Directory,0,50,50,0,"% de (AD, File Server) auditados",100,0%,0%
+,Segurança em Rede,Perímetro de Rede,,0,0,50,50,N° total de perímetro de rede que necessitam de Firewall,100,50%,50%
+,Segurança em Rede,Firewall,Fortigate/Cloudflare WAF,0,0,40,60,% de perímetro de rede protegidos por Firewall,100,60%,60%
+,Segurança em Rede,Filtro de conteúdo web,Fortigate/Cloudflare WAF,0,0,0,100,% de perímetro de rede protegidos por Filtro de conteúdo web,100,100%,100%
+,Segurança em Rede,AntiSpam,,0,0,30,70,n/a,100,70%,70%
+,Segurança em Rede,Aplicações,,0,0,0,100,N° total de aplicações expostas para a Internet,100,100%,100%
+,Segurança em Rede,WAF (Firewall de App),,0,20,70,10,% de aplicações expostas para a Internet protegidas pelo WAF,100,10%,10%
+,Segurança em Rede,VPN – Virtual Private Network,Forticlient ,25,25,25,25,n/a,100,25%,25%
+,Classificação da Informação,Ferramenta rotular e classificar,Google Workspace,0,30,70,0,n/a,100,0%,0%
+,Teste de Intrusão,Teste de intrusão (Escopo Blackbox),,0,100,0,0,n/a,100,0%,0%
+,Teste de Intrusão,Teste de intrusão (Escopo Graybox - Colaborador),,0,50,50,0,n/a,100,0%,0%
+,Teste de Intrusão,Teste de intrusão (Site Institucional),,20,50,30,0,n/a,100,0%,0%
+,,,,,,,,,,,
+,,,Total,779%,993%,1321%,1879%,,,,
+,,,,,,,,,,,
+,,,% Implantação,1879%,,,,,% Compliance,,66%

@@ -1,0 +1,50 @@
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,PROJETO DATA ACCESS,,AVALIAÇÃO DE RISCO EM SEGURANÇA DE TI E PROTEÇÃO DE DADOS.,,,
+,,,,,,,,
+,,,,,,,,
+,,*SCORE FINAL DA AVALIAÇÂO:,,1120,"21,6%",,TOTAL DE QUESTOES,117
+,,Risco alto: score até 59%,,RISCO ALTO,,,<5000,Não fazer auditoria in-loco
+,,Risco moderado: score entre 60% e 75%,,,,,>5001,Fazer  auditoria in-loco
+,,Risco baixo: score igual ou superior a 76%,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,Declaração,,,,,,
+,,"Ao responder o questionário declaro que todas as informações fornecidas através das respostas são verdadeiras e possuem o controle próprio por parte da empresa avaliada. O Self Assessment tem por finalidade assegurar a segurança dos dados da empresa, sendo que eventuais divergências e/ou informações incorretas poderão prejudicar o Grupo XP Inc em eventuais indagações legais, utilizando este documento como prova das informações.",,,,,,
+,,,,,,,,
+,,Observações ,,,,,,
+,,Descreva algo que considere relevante,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,"* A % do Score Final de Avaliação é mensurado de acordo com o total de pontuação do escritório, divido pela pontuação que um cenário com todos os controles implementados apresenta.",,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,Ref. Política,Domínio,Qtde. Controles,Implementado,Não Implementado,Parcialmente,Não Aplicável
+,,7.2.1,Privacidade,19,4,9,5,1
+,,7.2.2,Controle de Acesso,18,13,0,0,0
+,,7.2.3,Gestão de Vulnerabilidades e Proteção,28,22,0,0,0
+,,7.2.4,Monitoramento e Incidentes,12,4,0,0,0
+,,7.2.5,Segurança em Desenvolvimento de Sistemas,13,1,0,0,0
+,,7.2.6,"Continuidade dos Negócios, Retenção e Armazenamento de Dados",15,5,0,7,0
+,,7.2.7,Treinamento e Conscientização,7,5,2,0,0
+,,7.2.8,Serviços e Certificações,5,0,0,0,0
+,,Total,,117,54,11,12,1
+,,,,,,,,
+,,,,,,,,
+,,Ref. Política,Domínio,Qtde. Controles,Implementado %,Não Implementado%,Parcialmente %,Não Aplicável %
+,,7.2.1,Privacidade,19,21%,47%,26%,5%
+,,7.2.2,Controle de Acesso,18,72%,0%,0%,0%
+,,7.2.3,Gestão de Vulnerabilidades e Proteção,28,79%,0%,0%,0%
+,,7.2.4,Monitoramento e Incidentes,12,33%,0%,0%,0%
+,,7.2.5,Segurança em Desenvolvimento de Sistemas,13,8%,0%,0%,0%
+,,7.2.6,"Continuidade dos Negócios, Retenção e Armazenamento de Dados",15,33%,0%,47%,0%
+,,7.2.7,Treinamento e Conscientização,7,71%,29%,0%,0%
+,,7.2.8,Serviços e Certificações,5,0%,0%,0%,0%
+,,Total,,117,"46,15%","9,40%","10,26%","0,85%"
