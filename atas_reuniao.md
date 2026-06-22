@@ -4,7 +4,7 @@
 
 **Integrantes do grupo:** Savana Ribeiro Alves, José Levandovski, Márcia da Costa Alves, Isaak Fernandes Honorio, Chrystian Costa da Rosa, Andrean Linhares Queiroz.
 
-**Curso:** Análise e Desenvolvimento de Sistemas
+**Curso:** Análise e Desenvolvimento de Sistemas (Universidade LaSalle)
 
 **Professor (a):** Filipo Novo Mór
 
@@ -18,12 +18,12 @@
 | :--- | :---: | :--- | :--- |
 | Definição da empresa e escolha do tipo de projeto a ser desenvolvido pelo grupo. | 12/04/2026 | O grupo se reuniu para debater possíveis organizações para o projeto. Optou-se pelo Setor de Infraestrutura e Cibersegurança do Clube do Valor. Definimos o foco em Business Intelligence (BI) voltado para a conformidade em cibersegurança (B2B), visando otimizar a resposta a auditorias e frameworks de Due Diligence.<br><br>**Evidência da reunião síncrona:**<br>![Reunião Alinhamento 12/04](Imagens_Registro/Reuniao%20Alinhamento%2012-04-26.jpeg) | Atividade concluída. |
 | Definição das funções de cada integrante do grupo e elaboração do primeiro formulário | 21/04/2026 | Na segunda reunião do grupo, foi realizada a organização das atividades do projeto por meio da definição das responsabilidades de cada integrante, com o objetivo de estruturar melhor o desenvolvimento do trabalho e garantir o cumprimento das etapas previstas pela disciplina. Além disso, iniciou-se a elaboração do primeiro formulário solicitado pela disciplina, que foi preenchido e entregue como parte do acompanhamento do projeto. Durante a reunião, o grupo discutiu as informações que deveriam constar no documento, incluindo o contexto, os objetivos e a proposta do projeto.<br><br>**Evidência da reunião síncrona:**<br>![Segunda Reunião Alinhamento 21/04](Imagens_Registro/Segunda%20reuniao%20de%20alinhamento%2021-04-26.jpeg) | Atividade concluída. |
-| Definição de Papéis e Estruturação do Workflow (GitHub) | 21/04/2026 | Estabeleceu-se a governança do repositório no GitHub sob a premissa de "commits" individuais para rastreabilidade. As funções foram divididas entre: Arquitetura de Segurança, Engenharia de Dados, BI, Governança/PMO, Compliance/LGPD e Documentação Técnica. | Atividade concluída. |
-| Assinatura do termo de autorização pela empresa parceira | 22/04/2026 | O responsável pelo projeto na instituição parceira, Leonardo Cardoso, realizou a assinatura do Termo de Concessão e Authorization de Uso de Imagem e Dados. Esse documento formaliza a parceria e garante a autorização para utilizarmos as informações necessárias no desenvolvimento do projeto da faculdade. | Atividade concluída. |
+| Definição de Papéis e Estruturação do Workflow (GitHub) | 21/04/2026 | Estabeleceu-se a governança do repositório no GitHub sob a premissa de "commits" individuais para rastreabilidade. As funções foram divididas entre: Arquitetura de Segurança (Isaak), Engenharia de Dados (Chrys), BI (Andrean), Governança/PMO (Savana), Compliance/LGPD (Márcia) e Documentação Técnica (José). | Atividade concluída. |
+| Assinatura do termo de autorização pela empresa parceira | 22/04/2026 | O responsável pelo projeto na instituição parceira, Leonardo Cardoso, realizou a assinatura do Termo de Concessão e Autorização de Uso de Imagem e Dados. Esse documento formaliza a parceria e garante a autorização para utilizarmos as informações necessárias no desenvolvimento do projeto da faculdade. | Atividade concluída. |
 
 ---
 
-## ETAPA II - DIAGNÓSTICO e PLANEJAMENTO
+## ETAPA II - DIAGNÓSTICO E PLANEJAMENTO
 
 | ATIVIDADES | PERÍODO DE REALIZAÇÃO | RELATO DO GRUPO | SITUAÇÃO |
 | :--- | :---: | :--- | :--- |
@@ -41,4 +41,4 @@
 | Alinhamento de Próximos Passos e Organização do GitHub | 27/05/2026 | Fizemos uma reunião hoje para alinhar o cronograma e organizar nosso fluxo de trabalho. Definimos como vai funcionar o repositório no GitHub para todo mundo conseguir trabalhar junto sem problemas.<br><br>**Evidência da reunião síncrona:**<br>![Terceira Reunião 27/05](Imagens_Registro/Terceira%20Reuniao%2027-05-26.jpeg) | Atividade concluída. |
 | Desenvolvimento de Dashboards e Integração de Código. | 10/06/2026 | O grupo focou no desenvolvimento individual dos painéis analíticos e artefatos do sistema. Os integrantes trabalharam de forma assíncrona e realizaram commits parciais das atualizações diretamente no repositório compartilhado do GitHub para manter o progresso centralizado. | Atividade concluída. |
 | Auditoria de Segurança, Governança de Dados e Revisão de Artefatos. | 16/06/2026 | Iniciamos o processo de auditoria de governança nos artefatos gerados pelo grupo. Foi realizada uma revisão minuciosa nos prints de telas e dados que vão compor o relatório, garantindo que nenhuma informação real ou sensível (como e-mails corporativos, endereços de IP ou identificadores de clientes) ficasse exposta de forma indevida. | Atividade concluída. |
-| Encerramento da Etapa e Upload do Repositório | 22/06/2026 | Consolidamos a entrega final. Toda a documentação técnica (README.md), artefatos de BI e relatórios foram enviados ao repositório institucional, validando a rastreabilidade e a participação de todos os 6 integrantes por meio de commits individuais no GitHub.| Atividade concluída. |
+| Encerramento da Etapa e Upload do Repositório | 22/06/2026 | Consolidamos a entrega final. Toda a documentação técnica (README.md), artefatos de BI e relatórios foram enviados ao repositório institucional, validando a rastreabilidade e a participação de todos os 6 integrantes por meio de commits individuais no GitHub. | Atividade concluída. |
