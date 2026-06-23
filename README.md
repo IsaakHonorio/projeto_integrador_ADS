@@ -28,7 +28,7 @@ Este projeto consiste no desenvolvimento de uma solução de Business Intelligen
 
 ---
 
-## 🚀 Guia de Implantação B2B (Clube do Valor)
+## 🚀 Guia de Implantação B2B
 
 Este repositório contém a versão acadêmica e sanitizada do Sistema de BI de Conformidade. Para implantar a solução no ambiente de produção da empresa, siga os passos abaixo:
 
